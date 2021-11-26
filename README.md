@@ -6,8 +6,7 @@
   <p align="center">
     ARDoodling using Unity3d ARFoundation
   </p>
-   <a>
-    <img src="Screenshot_20211126-132252.png" alt="Logo" width="200" height="137">
-  </a>
 </div>
 
+![Product Name Screen Shot][product-screenshot]
+[product-screenshot]: Screenshot_20211126-132252.png
